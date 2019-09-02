@@ -2,7 +2,7 @@
 -- documentation, see http://eta-lang.org/docs/
 
 -- The name of the package.
-name:                aeson-th-retro
+name:                eta-aeson-retro-th
 
 -- The package version (i.e. 1.2.3.4).
 version:             0.1.0.0
